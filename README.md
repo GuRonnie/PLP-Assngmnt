@@ -112,4 +112,4 @@ The effectiveness of AI models depends significantly on the quality of the promp
 **Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
 Vague Prompt - Generate a list of computer languages
 Improved Prompt - Generate a list of computer languages, under each providing strengths and weaknesses and application in relation to the real world
-The improved better gives the AI gauge so as to provide more detailed output that is relevant to the user's input
+The improved better gives the AI gauge so as to provide more detailed output that is relevant to the user's input.
